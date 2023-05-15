@@ -1,0 +1,29 @@
+{
+    margin: 0;
+    padding: 10;
+}
+.cabecalho {
+    background-color: blue;
+    color: #fff
+    displey: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+.imagem{
+    `width: 20%;
+}
+
+.escola-lista{
+    display:inline-block;
+    margin: 0 16px;
+    padding:24px 0;
+}
+
+.escola-imagem{
+    width:25%;
+}
+
+.escola{
+    background-imagem: linear-gradient(#383d );
+}
