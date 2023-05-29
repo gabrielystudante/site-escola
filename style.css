@@ -1,17 +1,17 @@
-{
+* {
     margin: 0;
     padding: 10;
 }
 .cabecalho {
     background-color: blue;
-    color: #fff
-    displey: flex;
+    color: #fff;
+    display: flex;
     justify-content: space-around;
     padding: 24px 0;
 }
 
 .imagem{
-    `width: 20%;
+    width: 20%;
 }
 
 .escola-lista{
@@ -25,5 +25,15 @@
 }
 
 .escola{
-    background-imagem: linear-gradient(#383d );
+    background-image: linear-gradient(#383d58, #00c0ed );
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-conteudo{
+    width: 35%;
+
 }
